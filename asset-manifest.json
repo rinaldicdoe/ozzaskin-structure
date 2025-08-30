@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ozzaskin-structure/static/css/main.93a0497a.css",
+    "main.js": "/ozzaskin-structure/static/js/main.6c9d212a.js",
+    "static/js/453.c13724ad.chunk.js": "/ozzaskin-structure/static/js/453.c13724ad.chunk.js",
+    "index.html": "/ozzaskin-structure/index.html",
+    "main.93a0497a.css.map": "/ozzaskin-structure/static/css/main.93a0497a.css.map",
+    "main.6c9d212a.js.map": "/ozzaskin-structure/static/js/main.6c9d212a.js.map",
+    "453.c13724ad.chunk.js.map": "/ozzaskin-structure/static/js/453.c13724ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.6c9d212a.js"
+  ]
+}
